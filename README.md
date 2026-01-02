@@ -9,3 +9,4 @@ The goal is to create a forecasting model that can warn authorities when dengue 
 - **Frontend:** Dart
 - **Backend:** Dart, Python
 - **Framework:** Flutter
+- **Development Tools:** Visual Studio Code, Android Studio
