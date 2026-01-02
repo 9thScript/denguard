@@ -18,16 +18,27 @@ The goal is to create a forecasting model that can warn authorities when dengue 
 </p>
 
 ### Symptoms and Treatment Page
-![Symptoms](readme_images/Symptoms-Page.png) ![Treatments](readme_images/Treatment-Page.png)
+<p align="center">
+  <img src="readme_images/Symptoms-Page.png" alt="Symptoms" style="margin-right: 10px;"/>
+  <img src="readme_images/Treatment-Page.png" alt="Treatments"/>
+</p>
 
 ### Article Pages
-![Article1](readme_images/Article1.png) ![Article2](readme_images/Article2.png)
+<p align="center">
+  <img src="readme_images/Article1.png" alt="Article1" style="margin-right: 10px;"/>
+  <img src="readme_images/Article2.png" alt="Article2"/>
+</p>
 
 ### About Us Page
-![AboutUs1](readme_images/AboutUs1.png) ![AboutUs2](readme_images/AboutUs2.png)
+<p align="center">
+  <img src="readme_images/AboutUs1.png" alt="AboutUs1" style="margin-right: 10px;"/>
+  <img src="readme_images/AboutUs2.png" alt="AboutUs2"/>
+</p>
 
 ### Forecasting Page
-![Forecasting](readme_images/Forecasting.png)
+<p align="center">
+  <img src="readme_images/Forecasting.png" alt="Forecasting">
+</p>
 
 ## Technology Stack
 - **Frontend:** Dart
