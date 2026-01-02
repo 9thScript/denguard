@@ -12,7 +12,10 @@ The goal is to create a forecasting model that can warn authorities when dengue 
 </p>
 
 ### Home Page
-![Home1](readme_images/Home-Page1.png) ![Home2](readme_images/Home-Page2.png)
+<p align="center">
+  <img src="readme_images/Home-Page1.png" alt="Home1" style="margin-right: 10px;"/>
+  <img src="readme_images/Home-Page2.png" alt="Home2"/>
+</p>
 
 ### Symptoms and Treatment Page
 ![Symptoms](readme_images/Symptoms-Page.png) ![Treatments](readme_images/Treatment-Page.png)
