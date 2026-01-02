@@ -7,7 +7,9 @@ The goal is to create a forecasting model that can warn authorities when dengue 
 
 ## Screenshots
 ### Welcome Screen
+<div align="center">
 ![Welcome](readme_images/Welcome.png)
+</div>
 
 ### Home Page
 ![Home1](readme_images/Home-Page1.png) ![Home2](readme_images/Home-Page2.png)
