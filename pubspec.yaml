@@ -1,0 +1,30 @@
+name: denguard
+description: Dengue awareness and forecasting app
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  google_fonts: ^6.2.1
+  provider: ^6.0.5
+  flutter_animate: ^4.3.0
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  fl_chart: ^0.66.0
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+  intl: ^0.19.0
+  http: ^1.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/dengaurdlogo-removebg-preview.png
