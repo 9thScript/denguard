@@ -13,7 +13,16 @@ The goal is to create a forecasting model that can warn authorities when dengue 
 ![Home1](readme_images/Home-Page1.png) ![Home2](readme_images/Home-Page2.png)
 
 ### Symptoms and Treatment Page
-![Symptoms](readme_images/Symptoms-Page.png)
+![Symptoms](readme_images/Symptoms-Page.png) ![Treatments](readme_images/Treatment-Page.png)
+
+### Article Pages
+![Article1](readme_images/Article1.png) ![Article2](readme_images/Article2.png)
+
+### About Us Page
+![AboutUs1](readme_images/AboutUs1.png) ![AboutUs2](readme_images/AboutUs2.png)
+
+### Forecasting Page
+![Forecasting](readme_images/Forecasting.png)
 
 ## Technology Stack
 - **Frontend:** Dart
